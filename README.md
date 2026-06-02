@@ -1,11 +1,15 @@
 # Tournament Trackers for Major Football Tournaments.
 
-Latest Version: V26.0.0.1
+Latest Project: 2027 New Project
 
 ## Projects Included
 
+**2027**
+- New Project V0.3
+
 **2026**
-- 0 - World Cup Tracker
+- World Cup Tracker V0.1
+- Test V1.0
 
 ## Version Information
 
