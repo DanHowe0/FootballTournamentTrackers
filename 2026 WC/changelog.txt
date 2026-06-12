@@ -1,0 +1,4 @@
+V1.2
+
+- Fixed Fixtures being in the wrong time order
+- Fixed Third Place Teams not being calculated correctly.
