@@ -1,3 +1,8 @@
+V1.4
+
+- Fixed group tables using wrong columns to sort.
+- Fixed various other issues
+
 V1.3
 
 - Updated groups styling to make it fit more with the information sheet
